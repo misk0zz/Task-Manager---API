@@ -41,6 +41,3 @@ Si quieres probar este proyecto en tu máquina local:
 4.  **Explorar la API:**
     Abre tu navegador en `http://127.0.0.1:8000/docs` para ver la documentación interactiva.
 
-## 📬 Contacto
-
-Israel Zurita Dev
